@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
   <hr>
   
   ![Hagminism's github stats](https://github-readme-stats.vercel.app/api?username=Hagminism&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hagminism&layout=compact&theme=dark)
